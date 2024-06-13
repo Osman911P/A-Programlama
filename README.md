@@ -13,7 +13,7 @@ Bu proje, kanser hücrelerinin görselleştirildiği Unity tabanlı bir uygulama
 - **Gerçek Zamanlı Geri Bildirim:** Unity'de sınıflandırma sonucunu (iyi huylu/kötü huylu) görüntüler.
 
 ## Kullanım
-- **Flask sunucusunu çalıştırın: flashserver.py kodunu bir python ortamında açın.
+- **Flask sunucusunu çalıştırın: flaskserver.py dosyasındaki kodu bir python ortamında açın.
 - **Unity Editor'de Unity projesini açın ve Play moduna girin.
 - **Flask sunucusuna veri göndermek için kanser hücresi varlıklarına tıklayın.
 - **Flask sunucusu verileri işler ve daha sonra Unity'de görüntülenecek olan sınıflandırma sonucunu döndürür.
