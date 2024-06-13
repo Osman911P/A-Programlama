@@ -1,17 +1,17 @@
-# Unity Cancer Cell Classification Project
+# Unity Kanser Hücresi Sınıflandırma Projesi
 
-This project integrates Unity with a Python-trained model to classify cancer cells as benign or malignant. The classification is done via a Flask server which processes the data and returns the result to Unity.
+Bu proje, kanser hücrelerini iyi huylu veya kötü huylu olarak sınıflandırmak için Unity'yi Python ile eğitilmiş bir modelle entegre eder. Sınıflandırma, verileri işleyen ve sonucu Unity'ye döndüren bir Flask sunucusu aracılığıyla yapılır.
 
-## Project Description
-This project involves a Unity-based application where cancer cell assets are visualized. By clicking on these cells, data is sent to a Flask server which hosts a machine learning model trained to classify the cells as either benign or malignant.
+## Proje Açıklaması
+Bu proje, kanser hücrelerinin görselleştirildiği Unity tabanlı bir uygulamayı içermektedir. Bu hücrelerin üzerine tıklandığında veriler, hücreleri iyi huylu veya kötü huylu olarak sınıflandırmak için eğitilmiş bir makine öğrenimi modelini barındıran bir Flask sunucusuna gönderilir.
 
-## Features
-- **Interactive Cancer Cells:** Clickable cancer cell assets in Unity.
-- **Flask Server Integration:** Sends data from Unity to Flask server for processing.
-- **Machine Learning Model:** Uses a trained Python model to classify cancer cells.
-- **Real-time Feedback:** Displays classification result (benign/malignant) in Unity.
+## Özellikler
+- **Etkileşimli Kanser Hücreleri:** Unity'de tıklanabilir kanser hücresi varlıkları.
+- **Flask Sunucu Entegrasyonu:** Unity'den Flask sunucusuna işlenmek üzere veri gönderir.
+- **Makine Öğrenimi Modeli:** Kanser hücrelerini sınıflandırmak için eğitimli bir Python modeli kullanır.
+- **Gerçek Zamanlı Geri Bildirim:** Unity'de sınıflandırma sonucunu (iyi huylu/kötü huylu) görüntüler.
 
-### Prerequisites
-- Unity 2020.3 or later
-- Python 3.8 or later
-- Flask 2.0 or later
+### Ön Koşullar
+- Unity 2020.3 veya üstü
+- Python 3.8 veya üstü
+- Flask 2.0 veya üstü
