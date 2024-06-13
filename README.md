@@ -4,6 +4,7 @@ Bu proje, kanser hücrelerini iyi huylu veya kötü huylu olarak sınıflandırm
 
 ## Proje Açıklaması
 Bu proje, kanser hücrelerinin görselleştirildiği Unity tabanlı bir uygulamayı içermektedir. Bu hücrelerin üzerine tıklandığında veriler, hücreleri iyi huylu veya kötü huylu olarak sınıflandırmak için eğitilmiş bir makine öğrenimi modelini barındıran bir Flask sunucusuna gönderilir.
+![image](https://github.com/Osman911P/Ag-Programlama/assets/120224636/47404ef3-b198-41ba-a4e6-821d8914fa11)
 
 ## Özellikler
 - **Etkileşimli Kanser Hücreleri:** Unity'de tıklanabilir kanser hücresi varlıkları.
